@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2018.04.03 20:47:52.939,=C:\Users\root\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2018.04.03 20:48:39.823,C:\Users\root\Documents\Embarcadero\Studio\Projects\PoloAnalyzeV3\MainUnit.pas=C:\Users\root\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2018.04.03 20:48:39.823,C:\Users\root\Documents\Embarcadero\Studio\Projects\PoloAnalyzeV3\MainUnit.dfm=C:\Users\root\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>2018.04.03 20:48:48.436,C:\Users\root\Documents\Embarcadero\Studio\Projects\PoloAnalyzeV3\PoloAnalyzeV3.dproj=C:\Users\root\Documents\Embarcadero\Studio\Projects\Project3.dproj</Transaction>
+    <Transaction>2018.04.03 20:53:20.888,=C:\Users\root\Documents\Embarcadero\Studio\Projects\PoloAnalyzeV3\Unit1.pas</Transaction>
+    <Transaction>2018.04.03 20:53:50.098,C:\Users\root\Documents\Embarcadero\Studio\Projects\PoloAnalyzeV3\MyPolo.pas=C:\Users\root\Documents\Embarcadero\Studio\Projects\PoloAnalyzeV3\Unit1.pas</Transaction>
+    <Transaction>2018.04.03 23:31:12.807,G:\git\delphi_pr1\PoloAnalyzeV3.dproj=C:\Users\root\Documents\Embarcadero\Studio\Projects\PoloAnalyzeV3\PoloAnalyzeV3.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
